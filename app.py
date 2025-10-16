@@ -3,7 +3,9 @@ def greet(name: str = "User"):
 
 
 def main():
-    greet("Reon")
+    greet("Reon Fernandes")
+    greet("Jonita Fernandes")
+    greet("Jervasio Fernandes")
 
 
 if __name__ == "__main__":
