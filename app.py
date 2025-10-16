@@ -6,7 +6,7 @@ def greet(name: str = "User"):
     print(f"Current Date & Time: {current_time}\n")
 
 def main():
-    greet("Reon Fernandes")
+    greet("Jonita Fernandes")
 
 if __name__ == "__main__":
     main()
