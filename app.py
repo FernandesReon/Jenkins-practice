@@ -1,5 +1,5 @@
 def greet(name: str = "User"):
-    print(f"Hello {name},\nWelcome to Jenkins...")
+    print(f"Hello {name}, Welcome to Jenkins...")
 
 
 def main():
