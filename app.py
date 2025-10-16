@@ -1,9 +1,10 @@
-def main():
-    greet("Reon");
-
-
-def greet(name:str = "User"):
+def greet(name: str = "User"):
     print(f"Hello {name},\nWelcome to Jenkins...")
 
 
-main();
+def main():
+    greet("Reon")
+
+
+if __name__ == "__main__":
+    main()
